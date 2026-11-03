@@ -1,0 +1,6 @@
+{
+  "name": "claude-code-md-preview",
+  "description": "A Claude Code mod that renders a Markdown file in a pane beside the chat",
+  "owner": { "name": "Marcelo Juchem" },
+  "plugins": [{ "name": "md-preview", "source": "./" }]
+}

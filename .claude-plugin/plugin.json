@@ -1,0 +1,10 @@
+{
+  "name": "md-preview",
+  "version": "0.1.0",
+  "description": "Render a Markdown file in a pane beside the chat, redrawn when the file changes",
+  "author": { "name": "Marcelo Juchem", "email": "m@juchem.pro" },
+  "license": "MIT",
+  "homepage": "https://github.com/juchem/claude-code-md-preview",
+  "repository": "https://github.com/juchem/claude-code-md-preview",
+  "types": "./types/index.d.ts"
+}
